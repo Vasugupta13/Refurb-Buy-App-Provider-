@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
       ChangeNotifierProvider<SearchService>(create: (context)=>SearchService()),
     ],
     child: const MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: ProductPage1(),
     ),);
 
