@@ -15,6 +15,9 @@ Will be adding futher functionalities in the app
                                                     Sample Videos-
 
 
+https://github.com/Vasugupta13/Refurb-Buy-App-Provider-/assets/98811369/4540ed25-f967-4055-bc4f-3ecfe9dbb7b5
+
+
 https://github.com/Vasugupta13/Refurb-Buy-App-Provider-/assets/98811369/364b98bd-fc97-4360-b45b-08fb374c54d3
 
 
