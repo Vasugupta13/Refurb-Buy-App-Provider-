@@ -1,16 +1,13 @@
-# mobilicis
+# Refurb Buy
 
-A new Flutter project.
+Developed app by using Provider State Management and Clean architecture.(No use of setSatate and initState)
 
-## Getting Started
+Features - 
 
-This project is a starting point for a Flutter application.
+- Responsive UI (CustomScrollview, Sliver)
+- Postman Get Api for fetching data and showing Grid of mobile phones listed.
+- Infinte Scroll implementation
+- Postman Post Api for searching Mobile model and showing list of results
+- Provider State Management and clean code.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Will be adding futher functionalities in the app
